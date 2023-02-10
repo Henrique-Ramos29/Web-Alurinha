@@ -82,7 +82,7 @@ justify-content: flex-start;
 
 }
 /* parte mobile */
-@media(max-width: 768px) {
+@media(max-width: 767px) {
 .cabecalhoPrincipal-nav {
     flex-direction: column;
 }
